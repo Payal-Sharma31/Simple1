@@ -7,3 +7,10 @@
  currently it is amazing and free tool.
 
  hello everyone.
+
+
+ no=int(input("enter any value "))
+ if no%2==0:
+    print("even")
+ else:
+ print("odd")
