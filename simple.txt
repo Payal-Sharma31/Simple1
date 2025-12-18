@@ -1,1 +1,9 @@
 "hello world"
+ This is a new learning of git and github tool.
+
+ this is new learning of git and github tool.
+
+
+ currently it is amazing and free tool.
+
+ hello everyone.
